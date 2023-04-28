@@ -14,7 +14,7 @@ Le projet TSA est une application Web qui effectue une analyse de sentiment à l
 
 Le projet est organisé dans les répertoires et fichiers suivants :
 
-- **Instantanés DRA** : Contient divers captures d'écran et images liées au projet
+- **DRA snapshots** : Contient divers captures d'écran et images liées au projet
 - **Modèles** : Contient les modèles HTML et les images pour l'application Web
 - **Fichiers** : Contient les fichiers principaux pour exécuter l'application Web, entraîner le modèle et gérer la base de données
 
