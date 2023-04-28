@@ -6,7 +6,7 @@ Le projet TSA est une application Web qui effectue une analyse de sentiment à l
 
 - [Aperçu du projet](#aperçu-du-projet)
 - [DRA snapshots](#dra-snapshots)
-- [Modèles](#modèles)
+- [Templates](#templates)
 - [Fichiers](#fichiers)
 - [Fonctionnalités](#fonctionnalités)
 
@@ -16,13 +16,13 @@ Le projet est organisé dans les répertoires et fichiers suivants :
 
 - **Instantanés DRA** : Contient divers captures d'écran et images liées au projet
 - **Modèles** : Contient les modèles HTML et les images pour l'application Web
-- **Fichiers de niveau racine** : Contient les fichiers principaux pour exécuter l'application Web, entraîner le modèle et gérer la base de données
+- **Fichiers** : Contient les fichiers principaux pour exécuter l'application Web, entraîner le modèle et gérer la base de données
 
 ## DRA snapshots
 
 Ce dossier contient divers captures d'écran et images liées au projet, telles que des visualisations des performances du modèle et des exemples d'entrées/sorties.
 
-## Modèles
+## Templates
 
 Ce répertoire contient les modèles HTML et les images pour l'application Web. Il comprend des modèles pour la page d'accueil (`home.html`) et la page de résultats (`result.html`), ainsi que les images associées (`gt.png` et `lk.png`).
 
