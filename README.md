@@ -18,7 +18,7 @@ Le projet est organisé dans les répertoires et fichiers suivants :
 - **Modèles** : Contient les modèles HTML et les images pour l'application Web
 - **Fichiers de niveau racine** : Contient les fichiers principaux pour exécuter l'application Web, entraîner le modèle et gérer la base de données
 
-## Instantanés DRA
+## DRA snapshots
 
 Ce dossier contient divers captures d'écran et images liées au projet, telles que des visualisations des performances du modèle et des exemples d'entrées/sorties.
 
