@@ -26,9 +26,9 @@ Ce dossier contient divers captures d'écran et images liées au projet, telles 
 
 Ce répertoire contient les modèles HTML et les images pour l'application Web. Il comprend des modèles pour la page d'accueil (`home.html`) et la page de résultats (`result.html`), ainsi que les images associées (`gt.png` et `lk.png`).
 
-## Fichiers de niveau racine
+## Fichiers
 
-Ces fichiers sont situés au niveau racine du projet et comprennent :
+Voici les fichiers du projet :
 
 - `.gitignore` : Spécifie les fichiers et répertoires que Git doit ignorer
 - `Procfile` : Utilisé pour déployer l'application sur Heroku
