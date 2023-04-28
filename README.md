@@ -7,7 +7,7 @@ Le projet TSA est une application Web qui effectue une analyse de sentiment à l
 - [Aperçu du projet](#aperçu-du-projet)
 - [Instantanés DRA](#instantanés-dra)
 - [Modèles](#modèles)
-- [Fichiers de niveau racine](#fichiers-de-niveau-racine)
+- [Fichiers](#fichiers du projet)
 - [Fonctionnalités](#fonctionnalités)
 
 ## Aperçu du projet
